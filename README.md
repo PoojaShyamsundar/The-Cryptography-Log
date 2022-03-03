@@ -1,2 +1,2 @@
-# The-Computer-Scientist---A-Log
-Musings on code and life. 
+# The Cryptography Log
+Mullings on cryptography and computer security. 
